@@ -1,1 +1,24 @@
-/* css styles */
+/* Navbar */
+.navbar {
+  background-color: #1a1a1a !important;
+}
+
+.navbar a {
+  color: #a8e63d !important;
+}
+
+/* Body */
+body {
+  background-color: #f5f5f5;
+  color: #222222;
+}
+
+/* Links */
+a {
+  color: #a8e63d;
+}
+
+a:hover {
+  color: #88cc1a;
+}
+
