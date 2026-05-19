@@ -1,15 +1,43 @@
 [
   {
+    "objectID": "reviews.html",
+    "href": "reviews.html",
+    "title": "Review",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "‘Python for AI Engineering’",
+    "title": "Deep Learning Defined",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This website is designed to be a resource for aspiring AI Engineers and includes – Courses – Course Reviews – Resources – Contact Information"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
     "text": "About this site"
   }
